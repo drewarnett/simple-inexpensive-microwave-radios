@@ -1,2 +1,3 @@
 # simple-microwave-radios
-simple microwave amateur radio documentation
+
+Content is all on the [WIKI](https://github.com/drewarnett/simple-microwave-radios/wiki), so go [there](https://github.com/drewarnett/simple-microwave-radios/wiki).
